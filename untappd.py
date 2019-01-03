@@ -9,7 +9,7 @@ untappd = requests.get(url)
 json_data = json.loads(untappd.text)
 
 LatestBeers = json_data["response"]["checkins"]
-
+print (LatestBeers)
 
 #LatestBeer = json_data["count"]["items"]
 
