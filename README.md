@@ -14,6 +14,7 @@ Shows your most recent untapped checkin. Requires untapped API key: https://unta
 
 ### Future Plans
 
-Exist.io
-Todoist
-Samsungs Smart Things
+- Exist.io
+- Todoist
+- Samsungs Smart Things
+- Monzo
