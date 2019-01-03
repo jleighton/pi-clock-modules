@@ -18,3 +18,4 @@ Shows your most recent untapped checkin. Requires untapped API key: https://unta
 - Todoist
 - Samsungs Smart Things
 - Monzo
+- Fitbit
